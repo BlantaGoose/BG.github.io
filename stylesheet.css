@@ -46,3 +46,11 @@ nav a:hover {
   background-color: #575757; /* ホバー時の背景色 */
   border-radius: 4px; /* 角を丸くする */
 }
+
+.menu label {
+  display: block;
+  position: relative;
+  padding: 10px 6px;
+  font-size: 1.1rem;
+  cursor: pointer;
+}
