@@ -1,3 +1,10 @@
 .title {
   color: #02ccba;
 }
+
+.bernicla {
+  width: 200px; /* 画像の幅を指定 */
+  height: auto; /* 高さを自動調整 */
+  border: 2px solid black; /* 画像に枠線を追加 */
+  border-radius: 8px; /* 画像の角を丸くする */
+}
