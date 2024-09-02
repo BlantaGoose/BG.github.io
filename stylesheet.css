@@ -8,3 +8,17 @@
   border: 2px solid black; /* 画像に枠線を追加 */
   border-radius: 8px; /* 画像の角を丸くする */
 }
+
+main {
+  display: block;
+  padding: 20px;
+}
+
+header {
+  background-color: lightgray;
+  padding: 10px;
+}
+
+h1 {
+  color: darkblue;
+}
